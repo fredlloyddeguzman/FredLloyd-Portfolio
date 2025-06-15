@@ -1,7 +1,7 @@
 export const NotFound = () => {
   return (
     <div>
-      not ffound
+      NOT FOUND
     </div>
   );
 }
