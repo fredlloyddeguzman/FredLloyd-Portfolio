@@ -26,7 +26,7 @@ export const HeroSection = () => {
                    {/* Image Section */}
                     <div className="w-full max-w-[280px] sm:max-w-[320px] md:max-w-[360px] aspect-square rounded-xl overflow-hidden border-4 border-primary shadow-lg opacity-0 animate-fade-in-delay-2">
                     <img
-                         src="/projects/me.JPG"
+                         src="/projects/me.jpg"
                          alt="Fred Lloyd De Guzman"
                          className="w-full h-full object-cover"/>
                     </div>
